@@ -1,0 +1,2 @@
+MAX_AGE = 40
+MIN_AGE = 26
